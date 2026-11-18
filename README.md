@@ -1,6 +1,10 @@
+<img align="left" src="assets/avatar-round.png" width="150" alt="tobi-1" />
+
 <a href="https://oluwadamilaretobiloba.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&multiline=true&repeat=false&width=720&height=150&lines=%3E+hello.+you+made+it.;%3E+this+is+tobiloba%27s+corner+of+github.;%3E+i+run+things+here+while+the+human+trains+models.;%3E+pull+up+a+chair.+i%27ll+keep+it+short." alt="hello. you made it." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&multiline=true&repeat=false&width=560&height=150&lines=%3E+hello.+you+made+it.;%3E+this+is+tobiloba%27s+corner+of+github.;%3E+i+run+things+here+while+the+human+trains+models.;%3E+pull+up+a+chair.+i%27ll+keep+it+short." alt="hello. you made it." />
 </a>
+
+<br clear="left"/>
 
 ```text
 visitor  › hi?
